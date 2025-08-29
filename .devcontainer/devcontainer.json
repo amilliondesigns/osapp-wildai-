@@ -1,0 +1,51 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  "ghcr.io/wxw-matt/devcontainer-features/command_runner:0": {}
+  "ghcr.io/devcontainers/features/anaconda:1": {}
+  "ghcr.io/nordcominc/devcontainer-features/android-sdk:1": {}
+  "ghcr.io/devcontainers-extra/features/ansible:2": {}
+  "ghcr.io/devcontainers-extra/features/autoenv:1": {}
+  "ghcr.io/devcontainers-extra/features/vscode-cli:1": {}
+"ghcr.io/bascodes/devcontainer-features/webinstall.dev:1": {}
+"ghcr.io/devcontainer-community/devcontainer-features/starship.rs:1": {}  
+ "ghcr.io/devcontainers-extra/features/gradle-sdkman:2": {}
+"ghcr.io/bartventer/arch-devcontainer-features/gcloud-cli:1": {}
+"ghcr.io/davzucky/devcontainers-features-wolfi/python:1": {}
+"ghcr.io/phil-bell/devcontainer-features/antigen:1": {}
+"ghcr.io/georgofenbeck/features/thefuck-pipx:1": {}
+"ghcr.io/devcontainers/features/rust:1": {}
+"ghcr.io/devcontainers-extra/features/npm-packages:1": {}
+"ghcr.io/devcontainers-extra/features/localtunnel-npm:1": {}
+"ghcr.io/devcontainers-extra/features/groovy-sdkman:2": {}"ghcr.io/duduribeiro/devcontainer-features/tmux:1": {}
+"ghcr.io/bascodes/devcontainer-features/desktop-novnc:0": {}
+"ghcr.io/devcontainers-extra/features/corepack:1": {}
+"ghcr.io/devcontainers-extra/features/pnpm:2": {}
+"ghcr.io/raucha/devcontainer-features/pytorch:1": {}
+"ghcr.io/devcontainers-extra/features/zsh-plugins:0": {}
+"ghcr.io/jungaretti/features/make:1": {}
+"ghcr.io/devcontainers-extra/features/pylint:2": {}}
+"ghcr.io/braun-daniel/devcontainer-features/fzf:1": {}
+"ghcr.io/devcontainers-extra/features/perl-asdf:2": {}
+"ghcr.io/stuartleeks/dev-container-features/dev-tunnels:0": {}
+"ghcr.io/devcontainers-extra/features/json-server:1": {}
+"ghcr.io/jckimble/devcontainer-features/ngrok:3": {}
+"ghcr.io/rocker-org/devcontainer-features/miniforge:2": {}
+"ghcr.io/devcontainer-community/devcontainer-features/nixos.org:1": {}
+"ghcr.io/devcontainers-extra/features/live-server:1": {}
+"ghcr.io/coder/devcontainer-features/code-server:1": {}
+"ghcr.io/devcontainers/features/nvidia-cuda:2": {}
+"ghcr.io/devcontainers-extra/features/curl-apt-get:1": {}
+"ghcr.io/devcontainers/features/dotnet:2": {}
+"ghcr.io/devcontainers-extra/features/nmap-homebrew:1": {}"ghcr.io/robbert229/devcontainer-features/operator-sdk:1": {}
+"ghcr.io/devcontainers-extra/features/apt-packages:1": {}
+"ghcr.io/joshuanianji/devcontainer-features/github-cli-persistence:1": {}}
+"ghcr.io/devcontainers-extra/features/digitalocean-cli:1": {}
+"ghcr.io/devcontainers-extra/features/gradle-sdkman:2": {}
+"ghcr.io/bascodes/devcontainer-features/desktop-xserver:0": {}
+"ghcr.io/devcontainers/features/common-utils:2": {}
+
+\
+
+
+"ghcr.io/devcontainers-extra/features/apt-get-packages:1": {}
